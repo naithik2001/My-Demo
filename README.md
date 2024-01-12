@@ -1,3 +1,3 @@
 # My-Demo
-My First Demo -
+My Demo -
 Welcome to my First Demo
